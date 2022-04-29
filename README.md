@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Badge (뱃지) -->
+<img src="https://img.shields.io/badge/Studying-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
+<!-- 잔디 깃허브 프로필에 보여주기 -->
