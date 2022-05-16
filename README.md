@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssongcookie&layout=compact)](https://github.com/ssongcookie/github-readme-stats)
+
+
 <!-- Badge (뱃지) -->
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 <!-- ![jQuery] -->
