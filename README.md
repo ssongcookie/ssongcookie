@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **ssongcookie/ssongcookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,15 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssongcookie&layout=compact)](https://github.com/ssongcookie/github-readme-stats)
 
 
-<!-- Badge (뱃지) -->
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 <!-- ![jQuery] -->
-<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-<!-- ![Spring] -->
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/><!-- ![Spring] --><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 <!--![Thymeleaf] -->
 <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
 <!-- ![Eclipse] -->
